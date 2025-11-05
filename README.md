@@ -1,13 +1,13 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Prashant</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="coding" width ="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantdotnaagar&label=Profile%20views&color=0e75b6&style=flat" alt="prashantdotnaagar" /> </p>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Angular Js**
 
-- 💬 Ask me about **react and Javascript**
+- 💬 Ask me about **Java and SpringBooot**
 
 - 📫 How to reach me **prashantnaagar60@gmail.com**
 
