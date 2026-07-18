@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantdotnaagar&label=Profile%20views&color=0e75b6&style=flat" alt="prashantdotnaagar" /> </p>
 
-- 🌱 I’m currently learning **Angular Js**
+- 🌱 I’m currently learning **React Js**
 
 - 💬 Ask me about **Java and SpringBooot**
 
